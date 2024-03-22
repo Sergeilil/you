@@ -1,0 +1,1 @@
+if current_node is None:
